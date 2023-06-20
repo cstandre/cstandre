@@ -1,4 +1,4 @@
-### Hi there 👋
+- ![](https://res.cloudinary.com/djclmc80y/image/upload/v1687236256/Brown_Wood_Minimalist_Profile_LinkedIn_Banner_ty8clj.png)
 
 <!--
 **cstandre/cstandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
