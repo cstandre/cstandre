@@ -1,5 +1,17 @@
 # Hi! Welcome 👋🏼
-#### Portland, OR | caitlynstandre@gmail.com
+#### Portland, OR | [Email Me](caitlynstandre@gmail.com) | [LinkedIn](https://www.linkedin.com/in/caitlyn-st-andre-46b1ba143/)
+
+Hi! My name is Caitlyn, and I'm a full stack software engineer. With a background in operations analysis, I've honed my skills in accurately and timely delivering client requests. Collaborating with stakeholders to improve processes has been an integral part of my journey, and I'm excited to leverage that experience in my new career as a software engineer.
+
+I thrive on transforming visions into reality with code and taking on the challenge of solving brain-teasing bugs. My passion lies in the creative process of coding and the satisfaction that comes with seeing a project come to life.
+
+During my time at App Academy, I had the opportunity to work on three exciting projects, utilizing a diverse set of tools and programming languages. I'm proficient in Express, Sequelize, JavaScript, React/Redux, Flask, Python, SQLAlchemy, HTML, and CSS. Feel free to check out my projects below!
+
+When I'm not coding, you can find me engrossed in my favorite game, Breath of the Wild, or challenging myself with Sudoku puzzles. I also have a creative side and enjoy crocheting. And of course, what's life without good food and live music? I love to indulge in both while spending quality time with friends.
+
+I'm looking forward to connecting with like-minded professionals and exploring new opportunities in the software engineering field. Let's make great things happen together!
+
+#### Languages and Tools:
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
