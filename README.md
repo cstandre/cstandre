@@ -1,5 +1,6 @@
 # Hi! Welcome 👋🏼
-#### Portland, OR | [Email Me](caitlynstandre@gmail.com) | [LinkedIn](https://www.linkedin.com/in/caitlyn-st-andre-46b1ba143/)
+#### Portland, OR | [Email](mailto:caitlynstandre@gmail.com) | [LinkedIn](https://www.linkedin.com/in/caitlyn-st-andre-46b1ba143/)
+![](https://res.cloudinary.com/djclmc80y/image/upload/v1687312043/Brown_Wood_Minimalist_Profile_LinkedIn_Banner_1_huj6av.png)
 
 Hi! My name is Caitlyn, and I'm a full stack software engineer. With a background in operations analysis, I've honed my skills in accurately and timely delivering client requests. Collaborating with stakeholders to improve processes has been an integral part of my journey, and I'm excited to leverage that experience in my new career as a software engineer.
 
@@ -12,6 +13,7 @@ When I'm not coding, you can find me engrossed in my favorite game, Breath of th
 I'm looking forward to connecting with like-minded professionals and exploring new opportunities in the software engineering field. Let's make great things happen together!
 
 #### Languages and Tools:
+
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -28,7 +30,7 @@ I'm looking forward to connecting with like-minded professionals and exploring n
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![](https://res.cloudinary.com/djclmc80y/image/upload/v1687285849/Caitlyn_St.Andre_z1wjo1.jpg)
+
 
 <!--
 **cstandre/cstandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
