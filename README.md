@@ -1,15 +1,15 @@
-# Hi! Welcome 👋🏼
+# Welcome 👋🏼
 #### Portland, OR | [Email](mailto:caitlynstandre@gmail.com) | [LinkedIn](https://www.linkedin.com/in/caitlyn-st-andre/)
 
-Hi! My name is Caitlyn, and I'm a full stack software engineer. With a background in operations analysis, I've honed my skills in accurately and timely delivering client requests. Collaborating with stakeholders to improve processes has been an integral part of my journey, and I'm excited to leverage that experience in my new career as a software engineer.
+Hello, I'm Caitlyn, a full stack software engineer driven by the art of turning code into impactful solutions. My background in operations analysis has refined my SQL skills, enabling precise and prompt client request delivery. Collaborating with stakeholders to streamline processes has been a constant theme in my journey, now fueling my software engineering career.
 
-I thrive on transforming visions into reality with code and taking on the challenge of solving brain-teasing bugs. My passion lies in the creative process of coding and the satisfaction that comes with seeing a project come to life.
+I thrive on translating concepts into reality through code and enjoy unraveling complex bugs. My true passion lies in the creative essence of coding and the fulfillment of witnessing projects come to fruition.
 
-During my time at App Academy, I had the opportunity to work on three exciting projects, utilizing a diverse set of tools and programming languages. I'm proficient in Express, Sequelize, JavaScript, React/Redux, Flask, Python, SQLAlchemy, HTML, and CSS. Feel free to check out my projects below!
+Beyond coding, I find solace in my favorite game, Breath of the Wild, or challenge my mind with Sudoku puzzles. My creativity extends to crocheting, and I savor life's pleasures in good food and live music, often enjoyed with friends.
 
-When I'm not coding, you can find me engrossed in my favorite game, Breath of the Wild, or challenging myself with Sudoku puzzles. I also have a creative side and enjoy crocheting. And of course, what's life without good food and live music? I love to indulge in both while spending quality time with friends.
+Let's collaboratively shape innovation and forge new paths.
 
-I'm looking forward to connecting with like-minded professionals and exploring new opportunities in the software engineering field. Let's make great things happen together!
+During my time at App Academy, I tackled three dynamic projects, utilizing a versatile set of tools and languages.
 
 #### Languages and Tools:
 
