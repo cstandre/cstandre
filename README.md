@@ -5,7 +5,7 @@ Hello, I'm Caitlyn, a full stack software engineer driven by the art of turning 
 
 I thrive on translating concepts into reality through code and enjoy unraveling complex bugs. My true passion lies in the creative essence of coding and the fulfillment of witnessing projects come to fruition.
 
-Beyond coding, I find solace in my favorite game, Breath of the Wild, or challenge my mind with Sudoku puzzles. My creativity extends to crocheting, and I savor life's pleasures in good food and live music, often enjoyed with friends.
+Outside of coding, I enjoy immersing myself in Breath of the Wild and tackling Sudoku puzzles. I also channel my creativity into crocheting, and I relish life's simple joys through great food and live music, often shared with friends
 
 Let's collaboratively shape innovation and forge new paths.
 
