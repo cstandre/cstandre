@@ -1,6 +1,5 @@
 # Hi! Welcome 👋🏼
 #### Portland, OR | [Email](mailto:caitlynstandre@gmail.com) | [LinkedIn](https://www.linkedin.com/in/caitlyn-st-andre/)
-![](https://res.cloudinary.com/djclmc80y/image/upload/v1687406143/Brown_Wood_Minimalist_Profile_LinkedIn_Banner_2_mm8ot1.png)
 
 Hi! My name is Caitlyn, and I'm a full stack software engineer. With a background in operations analysis, I've honed my skills in accurately and timely delivering client requests. Collaborating with stakeholders to improve processes has been an integral part of my journey, and I'm excited to leverage that experience in my new career as a software engineer.
 
